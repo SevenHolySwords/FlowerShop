@@ -1,6 +1,6 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet } from 'react-native';
-import FlowerlandingPage from './FlowerlandingPage';
+import FlowerlandingPage from './FlowerLandingPage';
 
 export default function App() {
   return (

@@ -11,7 +11,7 @@ export default function FlowerlandingPage() {
                 <Text style={styles.headerText}>Blooming Flowers</Text>
                 <Text style={styles.subHeaderText}>Fresh and Beautiful Flowers Delivered to Your Doorstep</Text>
             </View>
-            <view style={styles.imageCOntainer} />
+            <view style={styles.imageContainer} />
         </ScrollView>
     );
 }
